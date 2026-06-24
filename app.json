@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "KisiAgri",
+    "slug": "kisiagri",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#16a34a"
+    },
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.henobuild.kisiagri" },
+    "android": { "package": "com.henobuild.kisiagri", "adaptiveIcon": { "backgroundColor": "#16a34a" } },
+    "web": { "favicon": "./assets/favicon.png" }
+  }
+}
